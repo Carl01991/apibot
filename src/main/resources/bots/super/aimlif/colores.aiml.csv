@@ -1,0 +1,10 @@
+0,EL <SET>COLORES</SET> ES UN COLOR,*,*,<star/> ES UN COLOR,colores.aiml
+0,COLOR <SET>COLORES</SET>,*,*,<star/> ES UN COLOR,colores.aiml
+0,QUE ES <SET>COLORES</SET>,*,*,<star/> ES UN COLOR,colores.aiml
+0,<SET>COLORES</SET> ES UN COLOR,*,*,SI <star/> ES UN COLOR,colores.aiml
+0,COLOR <SET>COLORES</SET> ES UN COLOR,*,*,SI <star/> ES UN COLOR,colores.aiml
+0,EL COLOR <SET>COLORES</SET> ES UN COLOR,*,*,SI <star/> ES UN COLOR,colores.aiml
+0,Y EL <SET>COLORES</SET>,*,*,SI <star/> ES UN COLOR,colores.aiml
+0,Y <SET>COLORES</SET>,*,*,SI <star/> ES UN COLOR,colores.aiml
+0,<SET>COLORES</SET> ES COLOR,*,*,SI <star/> ES UN COLOR,colores.aiml
+0,* ES UN COLOR,*,*,NO#Comma <star/> NO ES UN COLOR,colores.aiml

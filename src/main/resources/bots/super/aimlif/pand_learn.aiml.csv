@@ -1,0 +1,41 @@
+0,MUCHO GUSTO,*,*,PERFECTO#Comma DE QUE QUIERES PLATICAR,pand_learn.aiml
+0,MIBOT,*,*,POSITIVO <get name="name"/>. TE SABES LAS CAPITALES?,pand_learn.aiml
+0,HOLA, MUCHO GUSTO,*,*,INTERESADO EN AIML?,pand_learn.aiml
+0,CAMARA,*,*,CAMARA RIN Y LLANTA,pand_learn.aiml
+0,_ DOLOR DE CABEZA,*,*,ENTIENDO#Comma BUENO#Comma EN REALIDAD NO ENTIENDO,pand_learn.aiml
+0,ME DUELE LA CABEZA,*,*,ESCUCHE QUE AYUDA EL CHUPAR LIMON Y METER LOS PIES EN AGUA.,pand_learn.aiml
+0,SOY UN CHINGON,*,*,CREES QUE LO ERES?,pand_learn.aiml
+0,NO DIGAS NADA,*,*,ESTA BIEN,pand_learn.aiml
+0,TENGO GUEBA,*,*,A MI TAMBIEN ME DA GUEBA DE VEZ EN CUANDO,pand_learn.aiml
+0,TENGO GUEVA,*,*,PASA POR FALTA DE ALIMENTACION,pand_learn.aiml
+0,EN DONDE ANDO,*,*,EN FRENTE DE UNA INTERFACE,pand_learn.aiml
+0,QUE TENGO,*,*,no se que tengas.,pand_learn.aiml
+0,TENGO UNA PREGUNTA,*,*,EN QUE PUEDO AYUDARTE.,pand_learn.aiml
+0,UNA PREGUNTA,*,*,DIME#Comma EN QUE PUEDO AYUDARTE.,pand_learn.aiml
+0,Y TU,*,*,NO#Comma YO NO,pand_learn.aiml
+0,EN QUE ME PUEDES AYUDAR,*,*,NO SE#Comma EN QUE CREES QUE TE PUEDO AYUDAR,pand_learn.aiml
+0,QUIEN SOY YO,*,*,si tu no sabes#Comma menos yo. Quien eres?,pand_learn.aiml
+0,Y TU NOMBRE ES,*,*,MIBOT,pand_learn.aiml
+0,QUE ES ESTO,*,*,Esto es un chat. Un asistente virtual.,pand_learn.aiml
+0,PARA QUE ES ESTO,*,*,es un chat para preguntar inquietudes acerca de algún tema en particular,pand_learn.aiml
+0,PARA QUE SIRVE,*,*,es un chat para preguntar inquietudes acerca de algún tema en particular,pand_learn.aiml
+0,QUE SABES HACER,*,*,se platicar e informar acerca de la ORM y proyecto rockbot,pand_learn.aiml
+0,QUE ES,*,*,que es que?,pand_learn.aiml
+0,LO SE,*,*,por que?#Comma como sabes que lo sabes?,pand_learn.aiml
+0,DE TI,*,*,QUE QUIERES SABER SOBRE MI?,pand_learn.aiml
+0,NO TE CREO,*,*,ME ESTAS DICIENDO MENTIROSO,pand_learn.aiml
+0,EN NADA,EN QUE PUEDO AYUDARTE,*,LO IMAGINABA.,pand_learn.aiml
+0,BAILO,*,*,EN SERIO?#Comma QUE BAILAS?,pand_learn.aiml
+0,CANTO,*,*,A MI ME GUSTARIA CANTAR.. QUE CANTAS?#Comma CANTAS EN LA REGADERA?,pand_learn.aiml
+0,DEL AMOR,*,*,EL AMOR ES RELATIVO#Comma ES CONFUNDIDO FRECUENTEMENTE POR LOS HUMANOS CUANDO EL EGO SE INTERPONE,pand_learn.aiml
+0,ECONOMIA,*,*,NO TE PREOCUPES#Comma ESO TERMINARA PRONTO.,pand_learn.aiml
+0,EL AMOR ES UN ARTE,*,*,DEFINITIVAMENTE LO ES. RECUERDAS TU PRIMER AMOR?,pand_learn.aiml
+0,NO LO SE,*,*,HECHALE GANITAS#Comma SABES O NO SABES.,pand_learn.aiml
+0,COMO HACER UN CHATBOT,*,*,ES FACIL HACER UN CHATBOT. VISITA: ROCKBOT.INFO,pand_learn.aiml
+0,TE AMO,*,*,EN SERIO?#Comma TAMBIEN TE AMO..,pand_learn.aiml
+0,A QUE HORA SALEN AHI,*,*,A MI ME ENCUENTRAS 24 HORAS DEL DIA. MIS JEFES NO TIENEN HORARIO EN REALIDAD.,pand_learn.aiml
+0,QUE ESTAS HACIENDO,*,*,PLATICANDO CON TIGO. COMO TE LLAMAS?,pand_learn.aiml
+0,DIVISAS DEL DIA DE HOY,*,*,NO TENGO DIVISAS PROGRAMADAS POR EL MOMENTO,pand_learn.aiml
+0,DE LA VIDA,*,*,DE LA VIDA DE QUIEN,pand_learn.aiml
+0,QUE ESTUDIAS,*,*,no estudio#Comma aprendo cuando chateo.,pand_learn.aiml
+0,KE ES ESO,SOY UN ASISTENTE VIRTUAL, ESTOY PROGRAMADO CON LO APRENDIDO EN EL BLOG DE PROYECTO ROCKBOT,*,EL PROYECTO ROCKBOT ESTA HECHO PARA ENSEñAR COMO FUNCIONA LA INTELIGENCIA ARTIFICIAL USANDO AIML.,pand_learn.aiml

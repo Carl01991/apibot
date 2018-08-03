@@ -1,0 +1,12 @@
+0,CAPITAL DE <SET>ESTADOS</SET>,*,*,LA CAPITAL DE <star/> <map name="capitales"><star/></map>,capitales.aiml
+0,CUAL ES LA CAPITAL DE <SET>ESTADOS</SET>,*,*,LA CAPITAL DE <star/> <map name="capitales"><star/></map>,capitales.aiml
+0,Y LA CAPITAL DE <SET>ESTADOS</SET>,*,*,LA CAPITAL DE <star/> <map name="capitales"><star/></map>,capitales.aiml
+0,Y LA DE <SET>ESTADOS</SET>,*,*,LA CAPITAL DE <star/> <map name="capitales"><star/></map>,capitales.aiml
+0,CAPITAL DE <SET>CAPITALES</SET>,*,*,<star/> ES LA CAPITAL DE <map name="estados"><star/></map>,capitales.aiml
+0,CUAL ES LA CAPITAL DE <SET>CAPITALES</SET>,*,*,<star/>  ES LA CAPITAL DE <map name="estados"><star/></map>,capitales.aiml
+0,Y LA CAPITAL DE <SET>CAPITALES</SET>,*,*,<star/>  ES LA CAPITAL DE <map name="estados"><star/></map>,capitales.aiml
+0,Y LA DE <SET>CAPITALES</SET>,*,*,<star/> ES LA CAPITAL DE <map name="estados"><star/></map>,capitales.aiml
+0,CAPITAL DE *,*,*,<star/> NO ES UN ESTADO DE LA REPUBLICA.,capitales.aiml
+0,CUAL ES LA CAPITAL DE *,*,*,<star/> NO ES UN ESTADO DE LA REPUBLICA.,capitales.aiml
+0,Y LA CAPITAL DE *,*,*,<star/> NO ES UN ESTADO DE LA REPUBLICA.,capitales.aiml
+0,Y LA DE *,*,*,<star/> NO ES UN ESTADO DE LA REPUBLICA.,capitales.aiml

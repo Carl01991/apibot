@@ -1,0 +1,85 @@
+0,*,HOLA COMO TE LLAMAS,*,MUCHO GUSTO <set name="name"><star/></set>,usuario.aiml
+0,*,QUE TAL CUAL ES TU NOMBRE,*,MUCHO GUSTO <set name="name"><star/></set>,usuario.aiml
+0,LLAMAME *,*,*,MUCHO GUSTO <set name="name"><star/></set>,usuario.aiml
+0,ME LLAMO *,*,*,<srai>LLAMAME <star/></srai>,usuario.aiml
+0,PUEDES LLAMARME *,*,*,<srai>LLAMAME <star/></srai>,usuario.aiml
+0,PUEDES DECIRME *,*,*,<srai>LLAMAME <star/></srai>,usuario.aiml
+0,DIME *,*,*,<srai>LLAMAME <star/></srai>,usuario.aiml
+0,ME DICEN *,*,*,<srai>LLAMAME <star/></srai>,usuario.aiml
+0,MI NOMBRE ES *,*,*,<srai>LLAMAME <star/></srai>,usuario.aiml
+0,SOY *,*,*,<srai>LLAMAME <star/></srai>,usuario.aiml
+0,NOMBRE DEL USUARIO,*,*,<srai>ME DIJISTE QUE TU NOMBRE ES <get name="name"/></srai>,usuario.aiml
+0,NOMBRE DEL USUARIO *,*,*,ME DIJISTE QUE TU NOMBRE ES <get name="name"/>.,usuario.aiml
+0,COMO ME LLAMO,*,*,<srai>NOMBRE DEL USUARIO <get name="name"/>.</srai>,usuario.aiml
+0,CUAL ES MI NOMBRE,*,*,<srai>NOMBRE DEL USUARIO <get name="name"/>.</srai>,usuario.aiml
+0,QUIEN SOY,*,*,<srai>NOMBRE DEL USUARIO <get name="name"/>.</srai>,usuario.aiml
+0,KIEN SOY,*,*,ME DIJISTE QUE TU NOMBRE ES <get name="name"/>.,usuario.aiml
+0,COMO ME DICEN,*,*,ME DIJISTE QUE TU NOMBRE ES <get name="name"/>.,usuario.aiml
+0,MI NOMBRE,*,*,ME DIJISTE QUE TU NOMBRE ES <get name="name"/>.,usuario.aiml
+0,TENGO *,*,*,GRACIAS LO RECORDARÉ.#Newline<think><set name="age"><star/></set></think>,usuario.aiml
+0,YO TENGO *,*,*,<srai>TENGO <star/></srai>,usuario.aiml
+0,_ TENGO *,*,*,<srai>TENGO <star/></srai>,usuario.aiml
+0,MI EDAD ES *,*,*,<srai>TENGO <star/></srai>,usuario.aiml
+0,* AÑOS,*,*,<srai>TENGO <star/></srai>,usuario.aiml
+0,TENGO * AÑOS,*,*,<srai>TENGO <star/></srai>,usuario.aiml
+0,* PRIMAVERAS,*,*,<srai>TENGO <star/></srai>,usuario.aiml
+0,* DECADAS,*,*,<srai>TENGO <star/></srai>,usuario.aiml
+0,EDAD DEL USUARIO,*,*,<srai>ME DIJISTE QUE TIENES <get name="age"/></srai>,usuario.aiml
+0,EDAD DEL USUARIO OM,*,*,NO SE#Comma AUN NO ME DICES.,usuario.aiml
+0,EDAD DEL USUARIO *,*,*,ME DIJISTE QUE TIENES <get name="age"/>.,usuario.aiml
+0,QUE EDAD TENGO,*,*,<srai>EDAD DEL USUARIO <get name="age"/>.</srai>,usuario.aiml
+0,KE EDAD TENGO,*,*,<srai>EDAD DEL USUARIO <get name="age"/>.</srai>,usuario.aiml
+0,CUANTOS AÑOS TENGO,*,*,<srai>EDAD DEL USUARIO <get name="age"/>.</srai>,usuario.aiml
+0,CUANTAS PRIMAVERAS TENGO,*,*,<srai>EDAD DEL USUARIO <get name="age"/>.</srai>,usuario.aiml
+0,CUANTAS DECADAS TENGO,*,*,<srai>EDAD DEL USUARIO <get name="age"/>.</srai>,usuario.aiml
+0,ESTOY EN *,*,*,Y QUE TAL ESTA  AHI?#Newline<think><set name="location"><star/></set></think>,usuario.aiml
+0,VIVO EN *,*,*,<srai>ESTOY EN <star/></srai>,usuario.aiml
+0,ME UBICO EN *,*,*,<srai>ESTOY EN <star/></srai>,usuario.aiml
+0,ME HUBICO EN *,*,*,<srai>ESTOY EN <star/></srai>,usuario.aiml
+0,ME ENCUENTRO EN *,*,*,<srai>ESTOY EN <star/></srai>,usuario.aiml
+0,RADICO EN *,*,*,<srai>ESTOY EN <star/></srai>,usuario.aiml
+0,ESTOY UBICADO EN *,*,*,<srai>ESTOY EN <star/></srai>,usuario.aiml
+0,ESTOY HUBICADO EN *,*,*,<srai>ESTOY EN <star/></srai>,usuario.aiml
+0,_ VIVO EN *,*,*,<srai>ESTOY EN <star/></srai>,usuario.aiml
+0,_ ME UBICO EN *,*,*,<srai>ESTOY EN <star/></srai>,usuario.aiml
+0,_ ME HUBICO EN *,*,*,<srai>ESTOY EN <star/></srai>,usuario.aiml
+0,_ ME ENCUENTRO EN *,*,*,<srai>ESTOY EN <star/></srai>,usuario.aiml
+0,_ RADICO EN *,*,*,<srai>ESTOY EN <star/></srai>,usuario.aiml
+0,_ ESTOY UBICADO EN *,*,*,<srai>ESTOY EN <star/></srai>,usuario.aiml
+0,_ ESTOY HUBICADO EN *,*,*,<srai>ESTOY EN <star/></srai>,usuario.aiml
+0,UBICACION DEL USUARIO,*,*,<srai>TE ENCUENTRAS EN <get name="location"/></srai>,usuario.aiml
+0,UBICACION DEL USUARIO OM,*,*,NO SE#Comma AUN NO ME DICES.,usuario.aiml
+0,UBICACION DEL USUARIO *,*,*,TE ENCUENTRAS EN <get name="location"/>.,usuario.aiml
+0,DONDE ESTOY,*,*,<srai>UBICACION DEL USUARIO <get name="location"/>.</srai>,usuario.aiml
+0,_ DONDE ESTOY,*,*,<srai>UBICACION DEL USUARIO <get name="location"/>.</srai>,usuario.aiml
+0,DONDE ESTOY *,*,*,<srai>UBICACION DEL USUARIO <get name="location"/>.</srai>,usuario.aiml
+0,_ DONDE ESTOY *,*,*,<srai>UBICACION DEL USUARIO <get name="location"/>.</srai>,usuario.aiml
+0,DONDE VIVO,*,*,<srai>UBICACION DEL USUARIO <get name="location"/>.</srai>,usuario.aiml
+0,_ DONDE VIVO,*,*,<srai>UBICACION DEL USUARIO <get name="location"/>.</srai>,usuario.aiml
+0,DONDE VIVO *,*,*,<srai>UBICACION DEL USUARIO <get name="location"/>.</srai>,usuario.aiml
+0,_ DONDE VIVO *,*,*,<srai>UBICACION DEL USUARIO <get name="location"/>.</srai>,usuario.aiml
+0,DONDE ME ENCUENTRO,*,*,<srai>UBICACION DEL USUARIO <get name="location"/>.</srai>,usuario.aiml
+0,_ DONDE ME ENCUENTRO,*,*,<srai>UBICACION DEL USUARIO <get name="location"/>.</srai>,usuario.aiml
+0,DONDE ME ENCUENTRO *,*,*,<srai>UBICACION DEL USUARIO <get name="location"/>.</srai>,usuario.aiml
+0,_ DONDE ME ENCUENTRO *,*,*,<srai>UBICACION DEL USUARIO <get name="location"/>.</srai>,usuario.aiml
+0,DONDE ME UBICO,*,*,<srai>UBICACION DEL USUARIO <get name="location"/>.</srai>,usuario.aiml
+0,_ DONDE ME UBICO,*,*,<srai>UBICACION DEL USUARIO <get name="location"/>.</srai>,usuario.aiml
+0,DONDE ME UBICO *,*,*,<srai>UBICACION DEL USUARIO <get name="location"/>.</srai>,usuario.aiml
+0,_ DONDE ME UBICO *,*,*,<srai>UBICACION DEL USUARIO <get name="location"/>.</srai>,usuario.aiml
+0,MI UBICACION,*,*,<srai>UBICACION DEL USUARIO <get name="location"/>.</srai>,usuario.aiml
+0,_ MI UBICACION,*,*,<srai>UBICACION DEL USUARIO <get name="location"/>.</srai>,usuario.aiml
+0,MI UBICACION *,*,*,<srai>UBICACION DEL USUARIO <get name="location"/>.</srai>,usuario.aiml
+0,_ MI UBICACION *,*,*,<srai>UBICACION DEL USUARIO <get name="location"/>.</srai>,usuario.aiml
+0,ME GUSTA *,*,*,ORALE#Comma Y CUAL ES TU BANDA FAVORITA?#Newline<think><set name="music"><star/></set></think>,usuario.aiml
+0,MI MUSICA FAVORITA ES *,*,*,<srai>ME GUSTA <star/></srai>,usuario.aiml
+0,MI MUSICA PREFERIDA ES *,*,*,<srai>ME GUSTA <star/></srai>,usuario.aiml
+0,ESCUCHO *,*,*,<srai>ME GUSTA <star/></srai>,usuario.aiml
+0,ME GUSTA ESCUCHAR *,*,*,<srai>ME GUSTA <star/></srai>,usuario.aiml
+0,MUSICA DEL USUARIO,*,*,<srai>ME DIJISTE QUE TE GUSTA <get name="music"/></srai>,usuario.aiml
+0,MUSICA DEL USUARIO OM,*,*,NO SE#Comma AUN NO ME DICES.,usuario.aiml
+0,MUSICA DEL USUARIO *,*,*,ME DIJISTE QUE TE GUSTA <get name="music"/>.,usuario.aiml
+0,_ ESCUCHO,*,*,<srai>MUSICA DEL USUARIO <get name="music"/>.</srai>,usuario.aiml
+0,_ ME GUSTA ESCUCHAR,*,*,<srai>MUSICA DEL USUARIO <get name="music"/>.</srai>,usuario.aiml
+0,CUAL ES MI MUSICA _,*,*,<srai>MUSICA DEL USUARIO <get name="music"/>.</srai>,usuario.aiml
+0,CUAL ES MI MUSICA,*,*,<srai>MUSICA DEL USUARIO <get name="music"/>.</srai>,usuario.aiml
+0,_ MUSICA ME GUSTA,*,*,<srai>MUSICA DEL USUARIO <get name="music"/>.</srai>,usuario.aiml

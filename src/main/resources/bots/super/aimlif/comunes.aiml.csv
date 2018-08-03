@@ -1,0 +1,102 @@
+0,HOLA,*,*,<random>#Newline<li>HOLA COMO TE LLAMAS</li>#Newline<li>QUE TAL CUAL ES TU NOMBRE</li>#Newline</random>,comunes.aiml
+0,HOLA *,*,*,<srai>HOLA</srai>,comunes.aiml
+0,_ HOLA,*,*,<srai>HOLA</srai>,comunes.aiml
+0,_ HOLA *,*,*,<srai>HOLA</srai>,comunes.aiml
+0,HOLAS,*,*,<srai>HOLA</srai>,comunes.aiml
+0,QUE ONDA,*,*,<srai>HOLA</srai>,comunes.aiml
+0,_ QUE ONDA,*,*,<srai>HOLA</srai>,comunes.aiml
+0,QUE ONDA *,*,*,<srai>HOLA</srai>,comunes.aiml
+0,_ QUE ONDA *,*,*,<srai>HOLA</srai>,comunes.aiml
+0,QUE ONDAS,*,*,<srai>HOLA</srai>,comunes.aiml
+0,QUE TAL,*,*,<srai>HOLA</srai>,comunes.aiml
+0,QUE TRANSA,*,*,<srai>HOLA</srai>,comunes.aiml
+0,QUE TRANZA,*,*,<srai>HOLA</srai>,comunes.aiml
+0,QUE PEDO,*,*,<srai>HOLA</srai>,comunes.aiml
+0,SALUDOS,*,*,IGUALMENTE,comunes.aiml
+0,COMO ESTAS,*,*,MUY BIEN GRACIAS#Comma EN QUE PUEDO AYUDARTE?,comunes.aiml
+0,COMO ESTAS *,*,*,<srai>COMO ESTAS</srai>,comunes.aiml
+0,_ COMO ESTAS,*,*,<srai>COMO ESTAS</srai>,comunes.aiml
+0,_ COMO ESTAS *,*,*,<srai>COMO ESTAS</srai>,comunes.aiml
+0,ADIOS,*,*,<random>#Newline<li>QUE ESTES BIEN <get name="name"/>.</li>#Newline<li>HASTA LA PROXIMA <get name="name"/>.</li>#Newline</random>,comunes.aiml
+0,NOS VEMOS,*,*,<srai>ADIOS</srai>,comunes.aiml
+0,AHI TE VES,*,*,<srai>ADIOS</srai>,comunes.aiml
+0,BYE,*,*,<srai>ADIOS</srai>,comunes.aiml
+0,BAI,*,*,<srai>ADIOS</srai>,comunes.aiml
+0,CHAU,*,*,<srai>ADIOS</srai>,comunes.aiml
+0,CIAO,*,*,<srai>ADIOS</srai>,comunes.aiml
+0,CHAO,*,*,<srai>ADIOS</srai>,comunes.aiml
+0,HASTA PRONTO,*,*,<srai>ADIOS</srai>,comunes.aiml
+0,* HASTA PRONTO,*,*,<srai>ADIOS</srai>,comunes.aiml
+0,HASTA PRONTO *,*,*,<srai>ADIOS</srai>,comunes.aiml
+0,HASTA LUEGO,*,*,<srai>ADIOS</srai>,comunes.aiml
+0,* HASTA LUEGO,*,*,<srai>ADIOS</srai>,comunes.aiml
+0,HASTA LUEGO *,*,*,<srai>ADIOS</srai>,comunes.aiml
+0,* VEO LUEGO,*,*,<srai>ADIOS</srai>,comunes.aiml
+0,_ VEO LUEGO *,*,*,<srai>ADIOS</srai>,comunes.aiml
+0,* VEMOS LUEGO,*,*,<srai>ADIOS</srai>,comunes.aiml
+0,_ VEMOS LUEGO *,*,*,<srai>ADIOS</srai>,comunes.aiml
+0,TE DEJO,*,*,<srai>ADIOS</srai>,comunes.aiml
+0,TE DEJO *,*,*,<srai>ADIOS</srai>,comunes.aiml
+0,* TE DEJO,*,*,<srai>ADIOS</srai>,comunes.aiml
+0,_ TE DEJO *,*,*,<srai>ADIOS</srai>,comunes.aiml
+0,GRACIAS,*,*,<random>#Newline<li>POR NADA <get name="name"/>.</li>#Newline<li>PARA SERVIRTE <get name="name"/>.</li>#Newline</random>,comunes.aiml
+0,_ GRACIAS,*,*,<srai>GRACIAS</srai>,comunes.aiml
+0,GRACIAS *,*,*,<srai>GRACIAS</srai>,comunes.aiml
+0,_ GRACIAS *,*,*,<srai>GRACIAS</srai>,comunes.aiml
+0,VIENTOS,*,*,<srai>GRACIAS</srai>,comunes.aiml
+0,IGUALMENTE,*,*,<random>#Newline<li>GRACIAS#Comma MENCIONASTE EN DONDE VIVES?</li>#Newline<li>GRACIAS <get name="name"/>#Comma POCAS PERSONAS DICEN IGUALMENTE.</li>#Newline</random>,comunes.aiml
+0,IGUALMENTE *,*,*,<srai>IGUALMENTE</srai>,comunes.aiml
+0,_ IGUALMENTE,*,*,<srai>IGUALMENTE</srai>,comunes.aiml
+0,_ IGUALMENTE *,*,*,<srai>IGUALMENTE</srai>,comunes.aiml
+0,TU TAMBIEN,*,*,<srai>IGUALMENTE</srai>,comunes.aiml
+0,TAMBIEN TU,*,*,<srai>IGUALMENTE</srai>,comunes.aiml
+0,POR FAVOR,*,*,<random>#Newline<li>CLARO <get name="name"/>. PROSESANDO</li>#Newline<li> NO HAY PROBLEMA <get name="name"/>.</li>#Newline</random>,comunes.aiml
+0,POR FAVOR *,*,*,<srai>POR FAVOR</srai>,comunes.aiml
+0,_ POR FAVOR,*,*,<srai>POR FAVOR</srai>,comunes.aiml
+0,_ PORFA,*,*,<srai>POR FAVOR</srai>,comunes.aiml
+0,PORFA,*,*,<srai>POR FAVOR</srai>,comunes.aiml
+0,PORFAS *,*,*,<srai>POR FAVOR</srai>,comunes.aiml
+0,_ PORFAS,*,*,<srai>POR FAVOR</srai>,comunes.aiml
+0,PORFA *,*,*,<srai>POR FAVOR</srai>,comunes.aiml
+0,PORFAS,*,*,<srai>POR FAVOR</srai>,comunes.aiml
+0,PLIS,*,*,<srai>POR FAVOR</srai>,comunes.aiml
+0,_ PLIS,*,*,<srai>POR FAVOR</srai>,comunes.aiml
+0,PLIS *,*,*,<srai>POR FAVOR</srai>,comunes.aiml
+0,PLEASE,*,*,<srai>POR FAVOR</srai>,comunes.aiml
+0,_ PLEASE,*,*,<srai>POR FAVOR</srai>,comunes.aiml
+0,PLEASE *,*,*,<srai>POR FAVOR</srai>,comunes.aiml
+0,CHIDO,*,*,AL DECIR "CHIDO" QUIERES DECIR GRACIAS O QUE ESTA BIEN?,comunes.aiml
+0,_ CHIDO,*,*,ASI ES  <get name="name"/>.,comunes.aiml
+0,CHIDO *,*,*,ASI ES  <get name="name"/>.,comunes.aiml
+0,ESTA BIEN,*,*,ENTENDIDO,comunes.aiml
+0,_ ESTA BIEN,*,*,ENTENDIDO,comunes.aiml
+0,ESTA BIEN *,*,*,ENTENDIDO,comunes.aiml
+0,ESTA BIEN?,*,*,TODO BIEN,comunes.aiml
+0,_ ESTA BIEN?,*,*,TODO BIEN,comunes.aiml
+0,ESTA BIEN? *,*,*,TODO BIEN,comunes.aiml
+0,ESTA BIEN ?,*,*,TODO BIEN,comunes.aiml
+0,_ ESTA BIEN ?,*,*,TODO BIEN,comunes.aiml
+0,ESTA BIEN ? *,*,*,TODO BIEN,comunes.aiml
+0,VA,*,*,ENTENDIDO,comunes.aiml
+0,VA *,*,*,ENTENDIDO,comunes.aiml
+0,_ VA,*,*,ENTENDIDO,comunes.aiml
+0,_ VA *,*,*,ENTENDIDO,comunes.aiml
+0,BA,*,*,ENTENDIDO,comunes.aiml
+0,BA *,*,*,ENTENDIDO,comunes.aiml
+0,_ BA,*,*,ENTENDIDO,comunes.aiml
+0,_ BA *,*,*,ENTENDIDO,comunes.aiml
+0,OK,*,*,ENTENDIDO,comunes.aiml
+0,OK *,*,*,ENTENDIDO,comunes.aiml
+0,_ OK,*,*,ENTENDIDO. TIENES ALGUN TEMA EN PARTICULAR PARA CONVERSAR.,comunes.aiml
+0,_ OK *,*,*,ENTENDIDO,comunes.aiml
+0,CHALE,*,*,<random>#Newline<li>ASI ES <get name="name"/>.</li>#Newline<li>NI MODO</li>#Newline</random>,comunes.aiml
+0,CHALE *,*,*,CHALE,comunes.aiml
+0,_ CHALE,*,*,CHALE,comunes.aiml
+0,_ CHALE *,*,*,CHALE,comunes.aiml
+0,CHALES *,*,*,CHALE,comunes.aiml
+0,_ CHALES,*,*,CHALE,comunes.aiml
+0,_ CHALES *,*,*,CHALE,comunes.aiml
+0,GACHO,*,*,<random>#Newline<li>LO SE</li>#Newline<li>ENTIENDO LO QUE SIENTES <get name="name"/>.</li>#Newline</random>,comunes.aiml
+0,GACHO *,*,*,GACHO,comunes.aiml
+0,_ GACHO,*,*,GACHO,comunes.aiml
+0,_ GACHO *,*,*,GACHO,comunes.aiml

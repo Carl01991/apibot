@@ -1,0 +1,5 @@
+0,AIML,*,*,<set name="topic">AIML</set> SIGNIFICA Artificial Intelligence Markup Language Y FUE INVENTADO POR Dr. Richard S. Wallace. QUIERES SABER MAS?,aiml.aiml
+0,^ AIML ^,*,*,<srai>AIML</srai>,aiml.aiml
+0,SI,*,AIML,QUE NECESITAS SABER EXACTAMENTE?,aiml.aiml
+0,OK,*,AIML,QUE NECESITAS SABER EXACTAMENTE?,aiml.aiml
+0,NO,*,AIML,DE ACUERDO#Comma DE QUE QUIERES PLATICAR ENTONCES?<set name="topic"/>,aiml.aiml
