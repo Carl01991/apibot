@@ -17,19 +17,17 @@ import org.springframework.web.bind.annotation.RestController;
 public class ChatBotController {
 	
 	private static final boolean TRACE_MODE = false;
-	private Logger Log;
+
 	
 	 String response = null;
 	 String resourcesPath = getResourcesPath();
 		Bot bot = new Bot("super", resourcesPath);
 		Chat chatSession = new Chat(bot);
 		
-	 @PostMapping(value = "/chatbot")
+	 @PostMapping(value = "/chatbot") 
 	public String ChatBot (@RequestParam(value="request", required=true) String request) {
-		
 			MagicBooleans.trace_mode = TRACE_MODE;
 			bot.brain.nodeStats();
-
 
 			if ((request == null) || (request.length() < 1)) {
 				request = MagicStrings.null_input;
@@ -45,15 +43,10 @@ public class ChatBotController {
 				while (response.contains("&gt;"))
 					response = response.replace("&gt;", ">"); 
 
-				
 			}
 
 		return response;
-		
-		
-		
-		
-		
+
 	}	private static String getResourcesPath() {
 		File currDir = new File(".");
 		String path = currDir.getAbsolutePath();
