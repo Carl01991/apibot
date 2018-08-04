@@ -39,9 +39,10 @@ public class ChatBotController {
 					System.out.println("STATE=" + request + ":THAT=" + ((History) chatSession.thatHistory.get(0)).get(0) + ":TOPIC=" + chatSession.predicates.get("topic"));
 				 response = chatSession.multisentenceRespond(request);
 				while (response.contains("&lt;"))
-					response = response.replace("&lt;", "<");
+					response = response.replace("&lt;", "");
 				while (response.contains("&gt;"))
-					response = response.replace("&gt;", ">"); 
+					response = response.replace("&gt;", ""); 
+				System.out.println(response); 
 
 			}
 

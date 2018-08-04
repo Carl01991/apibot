@@ -5,14 +5,12 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
-public class TestCOntrolleer {
+public class TestCOntrolleer { 
 
 
 
-	    @RequestMapping("/{index}")
-	    public  String getBook() {
-	    	
-	    	
+	    @RequestMapping("/{index}")  
+	    public  String getBook() {  
 			return "index";  
 
 	    
